@@ -8,10 +8,7 @@
 ***
 El proyecto se trata de un formulario clásico de registro aplicando los conceptos adquiridos y el uso de tecnologías específicas para un manejo eficiente y práctico de la información agregada así como su validación.
 ***
-#### Deploy
-[Formulario Registro](https://fueguinof.github.io/2modClase6/)
-### Apariencia
-![Captura11 screen Formulario](https://i.imgur.com/F8JOUaC.png)
+
 ## 
 ***
 ### Tecnologías utilizadas
@@ -19,7 +16,6 @@ El proyecto se trata de un formulario clásico de registro aplicando los concept
 * [Vite](https://vitejs.dev/guide/): versión 4.4.5
 * [Chakra UI](https://chakra-ui.com/): versión 2.8.2
 * [FontAwesome Icons](https://fontawesome.com/icons): versión 6.4.2
-* [Framer Motion](https://www.framer.com/motion/): versión 10.16.5
 * [GH-pages](https://www.npmjs.com/package/gh-pages): versión 6.0.0
 * [Formik](https://formik.org/docs/overview): versión 2.4.5
 * [Yup](https://www.npmjs.com/package/yup): versión 1.3.2
@@ -28,7 +24,7 @@ El proyecto se trata de un formulario clásico de registro aplicando los concept
 Siga estos sencillos pasos para instalar. 
 ```
 $ git clone 
-$ cd ../ruta/al/archivo
+$ cd ../ruta/al/archivo https://github.com/aljomar83/UTN-AP-TRAMO2-CLASE6-FORMULARIO
 $ npm install
 $ npm run dev
 ```
@@ -43,8 +39,6 @@ Si te gustó, compartilo.
 > 
 > Todo aporte es bienvenido
 
-#### Colaboradores
->@Pablo Rito - https://github.com/pablorito14
 
 ## FAQs
 ***
